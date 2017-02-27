@@ -1,0 +1,13 @@
+﻿Installation de l'assembly 'D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\bin\Debug\WindowsServiceRattrapage.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\bin\Debug\WindowsServiceRattrapage.InstallLog
+   assemblypath = D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\bin\Debug\WindowsServiceRattrapage.exe
+Installation du service MyNewService en cours...
+Le service MyNewService a été installé avec succès.
+Création d'une source EventLog MyNewService dans le journal Application...
+Validation de l'assembly 'D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\bin\Debug\WindowsServiceRattrapage.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\bin\Debug\WindowsServiceRattrapage.InstallLog
+   assemblypath = D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\bin\Debug\WindowsServiceRattrapage.exe

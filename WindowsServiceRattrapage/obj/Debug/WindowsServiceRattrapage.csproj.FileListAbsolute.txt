@@ -1,0 +1,8 @@
+D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\bin\Debug\WindowsServiceRattrapage.exe.config
+D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\obj\Debug\WindowsServiceRattrapage.csprojResolveAssemblyReference.cache
+D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\obj\Debug\WindowsServiceRattrapage.ProjectInstaller.resources
+D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\obj\Debug\WindowsServiceRattrapage.csproj.GenerateResource.Cache
+D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\bin\Debug\WindowsServiceRattrapage.exe
+D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\bin\Debug\WindowsServiceRattrapage.pdb
+D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\obj\Debug\WindowsServiceRattrapage.exe
+D:\Windows Programs\Microsoft Visual Studio Workspace\Projects\WindowsServiceRattrapage\WindowsServiceRattrapage\obj\Debug\WindowsServiceRattrapage.pdb
